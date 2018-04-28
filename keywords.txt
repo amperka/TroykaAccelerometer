@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map TroykaAccelerometer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TroykaAccelerometer 	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+calibrate 		KEYWORD2
+readVoltageX 	KEYWORD2
+readVoltageY 	KEYWORD2
+readVoltageZ 	KEYWORD2
+readGX			KEYWORD2
+readGY			KEYWORD2
+readGZ 			KEYWORD2
+readAX			KEYWORD2
+readAY			KEYWORD2
+readAZ 			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PIN_X	LITERAL1
+PIN_Y	LITERAL1
+PIN_Z	LITERAL1
+MIN_X	LITERAL1
+MAX_X	LITERAL1
+MIN_Y	LITERAL1
+MAX_Y	LITERAL1
+MIN_Z	LITERAL1
+MAX_Z	LITERAL1
